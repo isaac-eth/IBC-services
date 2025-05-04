@@ -1,0 +1,2 @@
+# IBC-services
+Escrow type smart contract that allows services commerce to a comunity, where services prices are based in a inverted bonding price curve cuasing that as more buyers acquire a respective service, price will go down for everyone, pushing more buyers to acquire the product and more sales for sellers at a fair price.
