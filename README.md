@@ -10,5 +10,8 @@ After this, registered users will be able to offer their product/service based o
 Inverted bonding curve: as more users buy the product during a cycle, the final cost will reduce foe everyone, this way the protocol pushes more buyers to acquire the product and the seller gets more service requests, taking advantage of escalable finances.
 After the cycle ends, the second payment must be transfer, this payment will be reduce depending on the total amount of requests during the cycle, then the service supplier will deliver requested services to their clients and only them will be able to release the full payment to the service supplier, ensuring quality on their services.
 
-Arbitrum sepolia tesnet scan link: https://sepolia.arbiscan.io/address/0x3ff2d5238f797611ff7a9e6b7ade19105cf6b86d#code
-Contract address: 0x3ff2D5238f797611FF7a9E6B7ADe19105cf6b86d
+Arbitrum Sepolia Tesnet scan link: https://sepolia.arbiscan.io/address/0x3ff2d5238f797611ff7a9e6b7ade19105cf6b86d#code
+Arbitrum Sepolia Testnet Contract address: 0x3ff2D5238f797611FF7a9E6B7ADe19105cf6b86d
+
+Scroll Sepolia Testnet scan Link: https://sepolia.scrollscan.com/address/0x0f337e1abd18618d62b603b0cab37135762a175a
+Scroll Sepolia Testnet Contract address: 0x0F337e1abd18618d62B603B0cAB37135762A175a
